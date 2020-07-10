@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Rishi! I'm 100% uncertain about everything and I'm probably gonna develop something in php for few months!
+
+Thank you @ImMaax for telling me about this EasterEgg!
