@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 I'm Rishi! I'm 100% uncertain about everything and I'm probably gonna develop something in php for few months!
 
-Thank you @ImMaax for telling me about this EasterEgg!
+Thank you [@ImMaax](http://www.github.com/ImMaax) for telling me about this EasterEgg!
