@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Rishi! and I can write stuff in `php`, `C` and `JavaScript`
+I'm Rishi! and I can write stuff in `php`, `C`, `python` and `JavaScript`
 
 [![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=4F5D95&logo=php&logoColor=FFFFFF)](https://www.php.net/)
 [![C/C++](https://img.shields.io/static/v1?label=&message=C/C%2B%2B&color=586069&logo=c&logoColor=FFFFFF)](https://en.m.wikipedia.org/wiki/C_(programming_language))
+[![Python](https://img.shields.io/static/v1?label=&message=Python&color=2b5b84&logo=python&logoColor=FFFFFF)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=FFE70B&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
